@@ -10,7 +10,7 @@ class Solution {
                 arr[i+j+1] += v1*v2;
             }
         }
-        System.out.print(Arrays.toString(arr));
+        //System.out.print(Arrays.toString(arr));
         int c = 0 ; 
         for(int i=l1+l2-1; i>=0;i--){
             int temp = (arr[i]+c)%10;
