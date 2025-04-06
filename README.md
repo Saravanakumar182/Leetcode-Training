@@ -27,10 +27,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0066-plus-one) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
