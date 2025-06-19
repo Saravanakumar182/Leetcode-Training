@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1019-squares-of-a-sorted-array) |
 | [1524-string-matching-in-an-array](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1524-string-matching-in-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1603-running-sum-of-1d-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2048-build-array-from-permutation](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/2048-build-array-from-permutation) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1019-squares-of-a-sorted-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3778-transform-array-by-parity](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1603-running-sum-of-1d-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
