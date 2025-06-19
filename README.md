@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1019-squares-of-a-sorted-array) |
+| [1524-string-matching-in-an-array](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1524-string-matching-in-an-array) |
 | [2048-build-array-from-permutation](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/2048-build-array-from-permutation) |
 | [3778-transform-array-by-parity](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/3778-transform-array-by-parity) |
 ## Matrix
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0049-group-anagrams) |
+| [1524-string-matching-in-an-array](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1524-string-matching-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3778-transform-array-by-parity](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/3778-transform-array-by-parity) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
