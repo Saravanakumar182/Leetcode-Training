@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0066-plus-one) |
 | [0941-sort-array-by-parity](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0941-sort-array-by-parity) |
+| [2048-build-array-from-permutation](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/2048-build-array-from-permutation) |
 ## Matrix
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0043-multiply-strings) |
+| [2048-build-array-from-permutation](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/2048-build-array-from-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
