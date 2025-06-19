@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0066-plus-one) |
 | [0941-sort-array-by-parity](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0958-sort-array-by-parity-ii) |
 | [2048-build-array-from-permutation](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/2048-build-array-from-permutation) |
 | [3778-transform-array-by-parity](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/3778-transform-array-by-parity) |
 ## Matrix
@@ -73,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0049-group-anagrams) |
 | [0941-sort-array-by-parity](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0958-sort-array-by-parity-ii) |
 | [3778-transform-array-by-parity](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0958-sort-array-by-parity-ii) |
 ## Counting
 |  |
 | ------- |
