@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0070-climbing-stairs) |
+| [1610-xor-operation-in-an-array](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1610-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0029-divide-two-integers) |
+| [1610-xor-operation-in-an-array](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
