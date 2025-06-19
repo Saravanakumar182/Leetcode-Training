@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0066-plus-one) |
+| [0349-intersection-of-two-arrays](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1019-squares-of-a-sorted-array) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0349-intersection-of-two-arrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Linked List
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1019-squares-of-a-sorted-array) |
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1019-squares-of-a-sorted-array) |
