@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0066-plus-one) |
 ## Matrix
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0049-group-anagrams) |
 ## Simulation
 |  |
 | ------- |
@@ -61,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0029-divide-two-integers) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
