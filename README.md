@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0066-plus-one) |
+| [0941-sort-array-by-parity](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0941-sort-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
@@ -68,4 +69,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0049-group-anagrams) |
+| [0941-sort-array-by-parity](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0941-sort-array-by-parity) |
+## Two Pointers
+|  |
+| ------- |
+| [0941-sort-array-by-parity](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0941-sort-array-by-parity) |
 <!---LeetCode Topics End-->
