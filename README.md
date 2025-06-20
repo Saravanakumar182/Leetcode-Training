@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0049-group-anagrams) |
+| [0459-repeated-substring-pattern](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0459-repeated-substring-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1524-string-matching-in-an-array) |
 ## Simulation
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/0459-repeated-substring-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/Saravanakumar182/Leetcode-Training/tree/master/1524-string-matching-in-an-array) |
 ## Prefix Sum
 |  |
